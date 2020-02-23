@@ -13,3 +13,7 @@ CLI pinger pinger for source servers, based on A2S_INFO protocol
 ```
 Count: `Stop after sending {Count} Ping `
 Wait: `Time interval between pings`
+
+## Credits
+
+#### Argparse - https://github.com/jiwoong-choi/argparse
